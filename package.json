@@ -1,6 +1,6 @@
 {
     "name": "nest-influxdb-compat",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "main": "./dist/index.js",
     "repository": "https://github.com/upscripter/nest-influxdb",
     "author": "vlzh",
